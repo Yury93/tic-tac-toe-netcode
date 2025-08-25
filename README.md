@@ -51,3 +51,10 @@ R3 (Reactive Extensions)
 Dependency Injection через Zenject
 Addressables для управления ресурсами
 Состояние игры синхронизируется между клиентами
+
+# Ключевые зависимости
+Unity Netcode - сетевое взаимодействие
+Unity Services - аутентификация, лобби, relay
+Zenject - dependency injection
+R3 - реактивные расширения
+Addressables - управление ассетами
